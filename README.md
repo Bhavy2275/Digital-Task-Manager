@@ -70,12 +70,3 @@ If you have any questions or feedback, feel free to reach out:
 
 - **Email**: sonibhavya2004@gmail.com
 - **GitHub**: [Bhavy2275](https://github.com/Bhavy2275)
-
----
-
-Feel free to modify this template to better fit your project's specifics. Let me know if there's anything else you need help with!
-
-Source: Conversation with Copilot, 26/9/2024
-(1) How to Write a Good README File for Your GitHub Project. https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/.
-(2) Documentation 101: creating a good README for your software project. https://dev.to/erikaheidi/documentation-101-creating-a-good-readme-for-your-software-project-cf8.
-(3) Make a README. https://www.makeareadme.com/.
